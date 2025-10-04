@@ -18,3 +18,4 @@ CSS3
 📂 Project Overview
 This project is a simple static webpage designed to practice and demonstrate my understanding of web page layout and styling. It's a great foundation to build upon in future responsive or interactive projects.
 
+Created by  @Divyanshu Patil
